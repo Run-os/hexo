@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Runos</title>
+  
+  
+  <link href="http://www.122050.xyz/atom.xml" rel="self"/>
+  
+  <link href="http://www.122050.xyz/"/>
+  <updated>2024-05-14T13:49:30.422Z</updated>
+  <id>http://www.122050.xyz/</id>
+  
+  <author>
+    <name>Runos</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.122050.xyz/2024/05/14/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    <id>http://www.122050.xyz/2024/05/14/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</id>
+    <published>2024-05-14T13:48:56.989Z</published>
+    <updated>2024-05-14T13:49:30.422Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Windows-软件"><a href="#Windows-软件" class="headerlink" title="Windows 软件"></a>Windows 软件</h2><ol><li>文件管理器 –&gt; Directory Opus</li><li>卸载 –&gt; Uninstall tool</li><li>安全 –&gt; 火绒</li><li>系统优化 –&gt; Dism++</li><li>同步|备份网盘 –&gt; Onedrive、百度网盘</li><li>笔记 –&gt; 思源笔记、obsidian</li><li>鼠标手势 –&gt; Wgestres</li><li>快捷高效必备 –&gt; Quicker、Utools</li><li>密码管理器 –&gt; SafeInCloud2</li><li>音乐播放器 –&gt; YesPlayMusic（在线）</li><li>开始菜单 –&gt; Start11</li><li>下载管理器 –&gt;IDM</li><li>压缩管理器 –&gt; Bandizip（免费版）</li><li>系统备份 –&gt; 傲梅轻松备份</li><li>文件搜索 –&gt; Everything</li><li>截图 –&gt; Snipaste Pro</li><li>Git加速 –&gt; dev-sidercar &#x2F; fastgithub &#x2F; steam++</li><li>内存自动清理工具 –&gt; memreduct</li></ol><h2 id="浏览器插件"><a href="#浏览器插件" class="headerlink" title="浏览器插件"></a>浏览器插件</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Windows-软件&quot;&gt;&lt;a href=&quot;#Windows-软件&quot; class=&quot;headerlink&quot; title=&quot;Windows 软件&quot;&gt;&lt;/a&gt;Windows 软件&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;文件管理器 –&amp;gt; Directory Opus&lt;/li&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
