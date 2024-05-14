@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Runos</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://run-os.github.io/runos.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://run-os.github.io/runos.github.io/"/>
   <updated>2024-05-14T12:26:43.529Z</updated>
-  <id>http://example.com/</id>
+  <id>https://run-os.github.io/runos.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Runos</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/05/14/hello-world/"/>
-    <id>http://example.com/2024/05/14/hello-world/</id>
+    <link href="https://run-os.github.io/runos.github.io/2024/05/14/hello-world/"/>
+    <id>https://run-os.github.io/runos.github.io/2024/05/14/hello-world/</id>
     <published>2024-05-14T12:26:43.529Z</published>
     <updated>2024-05-14T12:26:43.529Z</updated>
     
