@@ -1,3 +1,5 @@
+https://run-os.github.io/about/index.html
+https://run-os.github.io/links/index.html
 https://run-os.github.io/categories/index.html
 https://run-os.github.io/tags/index.html
 https://run-os.github.io/2024/05/15/Hexo%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/
