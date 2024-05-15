@@ -6,7 +6,7 @@
   <link href="https://run-os.github.io/atom.xml" rel="self"/>
   
   <link href="https://run-os.github.io/"/>
-  <updated>2024-05-15T08:43:29.806Z</updated>
+  <updated>2024-05-15T13:15:03.454Z</updated>
   <id>https://run-os.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 搭建博客</title>
+    <link href="https://run-os.github.io/2024/05/15/Hexo%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://run-os.github.io/2024/05/15/Hexo%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2024-05-15T13:15:03.000Z</published>
+    <updated>2024-05-15T13:15:03.454Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="事前准备"><a href="#事前准备" class="headerlink" title="事前准备"></a>事前准备</h2><ol><li>安转Git</li><li>安装Node.js</li></ol><h2 id="部署Hexo"><a href="#部署Hexo" class="headerlink" title="部署Hexo"></a>部署Hexo</h2><p>安装hexo</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><p>打开<code>blog</code>文件夹，初始化</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure><p>安转必要依赖</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure><h2 id="提交到Github"><a href="#提交到Github" class="headerlink" title="提交到Github"></a>提交到Github</h2><p>安转必要依赖</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><p><strong>修改</strong> <code>_config.yml</code> 文件末尾的 <code>Deployment</code> 部分，修改成如下：</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: git@github.com:用户名/用户名.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure><p>提交到Github</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean   # 清除缓存文件等</span><br><span class="line">hexo g       # 生成页面</span><br><span class="line">hexo s       # 启动预览</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;事前准备&quot;&gt;&lt;a href=&quot;#事前准备&quot; class=&quot;headerlink&quot; title=&quot;事前准备&quot;&gt;&lt;/a&gt;事前准备&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;安转Git&lt;/li&gt;
+&lt;li&gt;安装Node.js&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;部署Hexo&quot;&gt;&lt;a h</summary>
+      
+    
+    
+    
+    <category term="搞机" scheme="https://run-os.github.io/categories/%E6%90%9E%E6%9C%BA/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>软件推荐</title>
