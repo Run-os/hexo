@@ -6,7 +6,7 @@
   <link href="https://run-os.github.io/atom.xml" rel="self"/>
   
   <link href="https://run-os.github.io/"/>
-  <updated>2024-05-20T16:21:15.625Z</updated>
+  <updated>2024-05-20T16:21:40.599Z</updated>
   <id>https://run-os.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Duplicati 备份</title>
+    <link href="https://run-os.github.io/2024/05/21/Duplicati%20%E5%A4%87%E4%BB%BD/"/>
+    <id>https://run-os.github.io/2024/05/21/Duplicati%20%E5%A4%87%E4%BB%BD/</id>
+    <published>2024-05-20T16:21:40.000Z</published>
+    <updated>2024-05-20T16:21:40.599Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="搭建"><a href="#搭建" class="headerlink" title="搭建"></a>搭建</h4><p>创建一下安装的目录：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">mkdir</span> -p /root/data/docker_data/duplicati</span><br><span class="line"><span class="built_in">cd</span> /root/data/docker_data/duplicati</span><br><span class="line">nano docker-compose.yml</span><br></pre></td></tr></table></figure><p>​<code>docker-compose.yml</code>​填入以下内容：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">version: &quot;3&quot;</span><br><span class="line">services:</span><br><span class="line">  duplicati:</span><br><span class="line">    image: linuxserver/duplicati</span><br><span class="line">    container_name: duplicati</span><br><span class="line">    environment:</span><br><span class="line">      - PUID=0</span><br><span class="line">      - PGID=0</span><br><span class="line">      - TZ=Asia/Shanghai</span><br><span class="line">    volumes:</span><br><span class="line">      - /root/data/docker_data/duplicati/config:/config</span><br><span class="line">      - /root/data/docker_data/duplicati/backups:/backups</span><br><span class="line">      ###- /root/data:/source</span><br><span class="line">      - /:/source  #这个地方我直接映射根目录，这样什么文件就都可以备份了</span><br><span class="line">    ports:</span><br><span class="line">      - 8080:8200</span><br><span class="line">    restart: unless-stopped</span><br></pre></td></tr></table></figure><p>没问题的话，<code>ctrl+x</code>​退出，按<code>y</code>​保存，<code>enter</code>​确认。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker-compose up -d </span><br></pre></td></tr></table></figure><p>访问：<code>http:服务ip:8080</code>​ 即可。</p><h4 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h4><ol><li>映射目录：- &#x2F;:&#x2F;source</li><li>设置<code>密码访问</code>​：Zsz</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;搭建&quot;&gt;&lt;a href=&quot;#搭建&quot; class=&quot;headerlink&quot; title=&quot;搭建&quot;&gt;&lt;/a&gt;搭建&lt;/h4&gt;&lt;p&gt;创建一下安装的目录：&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gu</summary>
+      
+    
+    
+    
+    <category term="系统相关" scheme="https://run-os.github.io/categories/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="Docker" scheme="https://run-os.github.io/tags/Docker/"/>
+    
+  </entry>
   
   <entry>
     <title>Docker一键安装</title>
