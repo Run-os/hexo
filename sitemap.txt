@@ -1,3 +1,4 @@
+https://run-os.github.io/2024/05/27/GPT-api/
 https://run-os.github.io/2024/05/27/Docker%20%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85/
 https://run-os.github.io/2024/05/21/Docker%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85/
 https://run-os.github.io/2024/05/21/Duplicati%20%E5%A4%87%E4%BB%BD/
@@ -14,6 +15,7 @@ https://run-os.github.io/tags/%E8%80%83%E5%85%AC/
 https://run-os.github.io/tags/3-%E9%9D%A2%E8%AF%95/
 https://run-os.github.io/tags/VBA/
 https://run-os.github.io/tags/Docker/
+https://run-os.github.io/tags/%E9%95%9C%E5%83%8F%E5%AE%B9%E5%99%A8/
 https://run-os.github.io/categories/%E5%AD%A6%E4%B9%A0/
 https://run-os.github.io/categories/%E6%90%9E%E6%9C%BA/
 https://run-os.github.io/categories/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/

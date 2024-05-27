@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://run-os.github.io/2024/05/27/GPT-api/</loc>
+    
+    <lastmod>2024-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://run-os.github.io/2024/05/27/Docker%20%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85/</loc>
     
     <lastmod>2024-05-27</lastmod>
@@ -132,6 +141,13 @@
   
   <url>
     <loc>https://run-os.github.io/tags/Docker/</loc>
+    <lastmod>2024-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://run-os.github.io/tags/%E9%95%9C%E5%83%8F%E5%AE%B9%E5%99%A8/</loc>
     <lastmod>2024-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
