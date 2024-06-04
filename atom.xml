@@ -3,11 +3,11 @@
   <title>Runos</title>
   
   
-  <link href="https://run-os.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.122050.xyz/atom.xml" rel="self"/>
   
-  <link href="https://run-os.github.io/"/>
+  <link href="https://blog.122050.xyz/"/>
   <updated>2024-05-30T05:09:22.017Z</updated>
-  <id>https://run-os.github.io/</id>
+  <id>https://blog.122050.xyz/</id>
   
   <author>
     <name>Runos</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>GPT-api</title>
-    <link href="https://run-os.github.io/2024/05/27/GPT-api/"/>
-    <id>https://run-os.github.io/2024/05/27/GPT-api/</id>
+    <link href="https://blog.122050.xyz/2024/05/27/GPT-api/"/>
+    <id>https://blog.122050.xyz/2024/05/27/GPT-api/</id>
     <published>2024-05-27T07:53:21.000Z</published>
     <updated>2024-05-30T05:09:22.017Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="系统相关" scheme="https://run-os.github.io/categories/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/"/>
+    <category term="系统相关" scheme="https://blog.122050.xyz/categories/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/"/>
     
     
-    <category term="Docker" scheme="https://run-os.github.io/tags/Docker/"/>
+    <category term="Docker" scheme="https://blog.122050.xyz/tags/Docker/"/>
     
-    <category term="镜像容器" scheme="https://run-os.github.io/tags/%E9%95%9C%E5%83%8F%E5%AE%B9%E5%99%A8/"/>
+    <category term="镜像容器" scheme="https://blog.122050.xyz/tags/%E9%95%9C%E5%83%8F%E5%AE%B9%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>Docker 一键安装</title>
-    <link href="https://run-os.github.io/2024/05/27/Docker%20%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85/"/>
-    <id>https://run-os.github.io/2024/05/27/Docker%20%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85/</id>
+    <link href="https://blog.122050.xyz/2024/05/27/Docker%20%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85/"/>
+    <id>https://blog.122050.xyz/2024/05/27/Docker%20%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85/</id>
     <published>2024-05-27T06:44:32.000Z</published>
     <updated>2024-05-27T06:44:32.584Z</updated>
     
@@ -60,17 +60,17 @@
     
     
     
-    <category term="系统相关" scheme="https://run-os.github.io/categories/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/"/>
+    <category term="系统相关" scheme="https://blog.122050.xyz/categories/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/"/>
     
     
-    <category term="Docker" scheme="https://run-os.github.io/tags/Docker/"/>
+    <category term="Docker" scheme="https://blog.122050.xyz/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Duplicati 备份</title>
-    <link href="https://run-os.github.io/2024/05/21/Duplicati%20%E5%A4%87%E4%BB%BD/"/>
-    <id>https://run-os.github.io/2024/05/21/Duplicati%20%E5%A4%87%E4%BB%BD/</id>
+    <link href="https://blog.122050.xyz/2024/05/21/Duplicati%20%E5%A4%87%E4%BB%BD/"/>
+    <id>https://blog.122050.xyz/2024/05/21/Duplicati%20%E5%A4%87%E4%BB%BD/</id>
     <published>2024-05-20T16:21:40.000Z</published>
     <updated>2024-05-20T16:21:40.599Z</updated>
     
@@ -85,17 +85,17 @@
     
     
     
-    <category term="系统相关" scheme="https://run-os.github.io/categories/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/"/>
+    <category term="系统相关" scheme="https://blog.122050.xyz/categories/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/"/>
     
     
-    <category term="Docker" scheme="https://run-os.github.io/tags/Docker/"/>
+    <category term="Docker" scheme="https://blog.122050.xyz/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Hexo 搭建博客</title>
-    <link href="https://run-os.github.io/2024/05/15/Hexo%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://run-os.github.io/2024/05/15/Hexo%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://blog.122050.xyz/2024/05/15/Hexo%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://blog.122050.xyz/2024/05/15/Hexo%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2024-05-15T13:40:58.000Z</published>
     <updated>2024-05-15T13:40:58.926Z</updated>
     
@@ -113,15 +113,15 @@
     
     
     
-    <category term="搞机" scheme="https://run-os.github.io/categories/%E6%90%9E%E6%9C%BA/"/>
+    <category term="搞机" scheme="https://blog.122050.xyz/categories/%E6%90%9E%E6%9C%BA/"/>
     
     
   </entry>
   
   <entry>
     <title>软件推荐</title>
-    <link href="https://run-os.github.io/2024/05/15/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
-    <id>https://run-os.github.io/2024/05/15/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</id>
+    <link href="https://blog.122050.xyz/2024/05/15/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    <id>https://blog.122050.xyz/2024/05/15/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</id>
     <published>2024-05-15T08:43:29.000Z</published>
     <updated>2024-05-15T08:43:29.806Z</updated>
     
@@ -137,15 +137,15 @@
     
     
     
-    <category term="搞机" scheme="https://run-os.github.io/categories/%E6%90%9E%E6%9C%BA/"/>
+    <category term="搞机" scheme="https://blog.122050.xyz/categories/%E6%90%9E%E6%9C%BA/"/>
     
     
   </entry>
   
   <entry>
     <title>0 素材积累</title>
-    <link href="https://run-os.github.io/2024/05/15/0%20%E7%B4%A0%E6%9D%90%E7%A7%AF%E7%B4%AF/"/>
-    <id>https://run-os.github.io/2024/05/15/0%20%E7%B4%A0%E6%9D%90%E7%A7%AF%E7%B4%AF/</id>
+    <link href="https://blog.122050.xyz/2024/05/15/0%20%E7%B4%A0%E6%9D%90%E7%A7%AF%E7%B4%AF/"/>
+    <id>https://blog.122050.xyz/2024/05/15/0%20%E7%B4%A0%E6%9D%90%E7%A7%AF%E7%B4%AF/</id>
     <published>2024-05-15T08:38:02.000Z</published>
     <updated>2024-05-15T08:38:02.496Z</updated>
     
@@ -161,19 +161,19 @@
     
     
     
-    <category term="学习" scheme="https://run-os.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.122050.xyz/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="考公" scheme="https://run-os.github.io/tags/%E8%80%83%E5%85%AC/"/>
+    <category term="考公" scheme="https://blog.122050.xyz/tags/%E8%80%83%E5%85%AC/"/>
     
-    <category term="3 面试" scheme="https://run-os.github.io/tags/3-%E9%9D%A2%E8%AF%95/"/>
+    <category term="3 面试" scheme="https://blog.122050.xyz/tags/3-%E9%9D%A2%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>VBA-简单</title>
-    <link href="https://run-os.github.io/2024/05/15/VBA-%E7%AE%80%E5%8D%95/"/>
-    <id>https://run-os.github.io/2024/05/15/VBA-%E7%AE%80%E5%8D%95/</id>
+    <link href="https://blog.122050.xyz/2024/05/15/VBA-%E7%AE%80%E5%8D%95/"/>
+    <id>https://blog.122050.xyz/2024/05/15/VBA-%E7%AE%80%E5%8D%95/</id>
     <published>2024-05-15T06:15:39.000Z</published>
     <updated>2024-05-16T03:43:25.384Z</updated>
     
@@ -187,10 +187,10 @@
     
     
     
-    <category term="学习" scheme="https://run-os.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.122050.xyz/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="VBA" scheme="https://run-os.github.io/tags/VBA/"/>
+    <category term="VBA" scheme="https://blog.122050.xyz/tags/VBA/"/>
     
   </entry>
   
